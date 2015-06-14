@@ -1,2 +1,3 @@
-# Wix
-Examples and Extensions for create MSI Installer
+# WiXToolset
+
+Examples and Extensions for create MSI Installer use WiX Toolset
